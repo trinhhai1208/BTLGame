@@ -132,7 +132,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (3)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -229,6 +233,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: gemsText
+      value: 
+      objectReference: {fileID: 913761521}
     - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: levelText
       value: 
@@ -512,7 +520,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (10)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -662,7 +674,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (8)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -719,7 +735,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (7)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -781,7 +801,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (6)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -905,7 +929,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (5)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -962,7 +990,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (4)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1195,7 +1227,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1473,6 +1509,10 @@ PrefabInstance:
       value: Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 8631825850489493607, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
+      propertyPath: m_Text
+      value: 'Gem: 0'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631825850489493607, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 34db1beb4a8e1314da7d394e67d51a0d, type: 3}
@@ -1502,7 +1542,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (2)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55293,7 +55337,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (1)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -55780,7 +55828,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (9)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x

@@ -122,6 +122,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &113784781 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+  m_PrefabInstance: {fileID: 749216502}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &168734914
 GameObject:
   m_ObjectHideFlags: 0
@@ -14407,7 +14412,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 13.627, y: 1.01, z: -10}
+  m_LocalPosition: {x: 12.601, y: 0.759, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14543,23 +14548,27 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1264889824}
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -28.15
+      value: -27.262651
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.81
+      value: 0.7886131
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.0075927908
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalRotation.w
@@ -14567,15 +14576,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -19909,6 +19918,7 @@ Transform:
   - {fileID: 1464324004}
   - {fileID: 1870104699}
   - {fileID: 1571525166}
+  - {fileID: 113784781}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1301360957
@@ -20005,7 +20015,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (2)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20187,7 +20201,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (3)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20260,7 +20278,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry (1)
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -20608,6 +20630,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: gemsText
+      value: 
+      objectReference: {fileID: 1457345071}
+    - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: levelText
       value: 
       objectReference: {fileID: 1615994629}
@@ -20615,13 +20641,29 @@ PrefabInstance:
       propertyPath: cherriesText
       value: 
       objectReference: {fileID: 1457345071}
+    - target: {fileID: 4810352643635263557, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: m_Size.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4810352643635263557, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: m_Size.y
+      value: 1.1666666
+      objectReference: {fileID: 0}
+    - target: {fileID: 4810352643635263557, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4810352643635263557, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: m_Offset.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7028052760022737362, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.627
+      value: 12.601
       objectReference: {fileID: 0}
     - target: {fileID: 7028052760022737362, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.01
+      value: 0.759
       objectReference: {fileID: 0}
     - target: {fileID: 7028052760022737362, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -20824,6 +20866,14 @@ PrefabInstance:
     - target: {fileID: 6610143497795266006, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631825850489493607, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
+      propertyPath: m_Text
+      value: 'Gem: 0'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8631825850489493607, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8631825850489493607, guid: b4f67f4a4d754e64290cbab344c25f11, type: 3}
       propertyPath: m_FontData.m_Font
@@ -21085,7 +21135,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_Name
-      value: cherry
+      value: Gem
+      objectReference: {fileID: 0}
+    - target: {fileID: 4048111503853979943, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
+      propertyPath: m_TagString
+      value: Gem
       objectReference: {fileID: 0}
     - target: {fileID: 4261848649111208203, guid: 328628cd53c6c374983a72a2171a01fe, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21154,11 +21208,11 @@ PrefabInstance:
       objectReference: {fileID: 1880764961}
     - target: {fileID: 8236500876659311281, guid: 1bc273bf005287941a9a67c1cc022cf8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.627
+      value: 12.601
       objectReference: {fileID: 0}
     - target: {fileID: 8236500876659311281, guid: 1bc273bf005287941a9a67c1cc022cf8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.01
+      value: 0.759
       objectReference: {fileID: 0}
     - target: {fileID: 8236500876659311281, guid: 1bc273bf005287941a9a67c1cc022cf8, type: 3}
       propertyPath: m_LocalPosition.z
@@ -21213,7 +21267,6 @@ SceneRoots:
   - {fileID: 8769737675569221607}
   - {fileID: 1467471255}
   - {fileID: 1395042556}
-  - {fileID: 749216502}
   - {fileID: 7873913825837408074}
   - {fileID: 1794569744}
   - {fileID: 7486948090662066113}

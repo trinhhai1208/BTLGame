@@ -3065,7 +3065,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.83396226, g: 0.34112573, b: 0.22501242, a: 0.99607843}
+  m_Color: {r: 0.93333334, g: 0.8696212, b: 0.10196078, a: 0.99607843}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -3085,7 +3085,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Adventure of Fox-Knight
+  m_Text: The Adventure of Knight
 --- !u!222 &1877784182
 CanvasRenderer:
   m_ObjectHideFlags: 0
