@@ -3676,7 +3676,11 @@ PrefabInstance:
     - target: {fileID: 986745851116832262, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 72de0c64f2c6a498096698322c976a67, type: 3}
+      objectReference: {fileID: -500587343, guid: 608aa2e906d177a4c81428c8d8551b42, type: 3}
+    - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
+      propertyPath: gemsText
+      value: 
+      objectReference: {fileID: 1832063580}
     - target: {fileID: 1137351158577399351, guid: 72598d2f7fa0c0b4d942292fa84be29a, type: 3}
       propertyPath: guideText
       value: 
